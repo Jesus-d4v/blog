@@ -16,7 +16,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav"> 
+                <ul class="navbar-nav ms-auto"> 
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Inicio</a>
                     </li>
@@ -30,4 +30,6 @@
             </div>
         </div>
     </nav>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script></body>
+
     <div class="container mt-4">
